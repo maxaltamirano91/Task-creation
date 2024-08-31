@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: linear-gradient(to left, #009565, #005e7a);
+}
+
+.title {
+  font-size: 40px;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
